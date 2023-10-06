@@ -1,0 +1,3 @@
+[submodule "msp-studio"]
+	path = msp-studio
+	url = git@github.com:thebells1111/msp-studio.git
